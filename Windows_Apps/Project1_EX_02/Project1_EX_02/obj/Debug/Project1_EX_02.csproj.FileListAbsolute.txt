@@ -1,0 +1,6 @@
+C:\Users\Sparsh\Desktop\Windows_Apps\Project1_EX_02\Project1_EX_02\bin\Debug\Project1_EX_02.exe.config
+C:\Users\Sparsh\Desktop\Windows_Apps\Project1_EX_02\Project1_EX_02\bin\Debug\Project1_EX_02.exe
+C:\Users\Sparsh\Desktop\Windows_Apps\Project1_EX_02\Project1_EX_02\bin\Debug\Project1_EX_02.pdb
+C:\Users\Sparsh\Desktop\Windows_Apps\Project1_EX_02\Project1_EX_02\obj\Debug\Project1_EX_02.csprojAssemblyReference.cache
+C:\Users\Sparsh\Desktop\Windows_Apps\Project1_EX_02\Project1_EX_02\obj\Debug\Project1_EX_02.exe
+C:\Users\Sparsh\Desktop\Windows_Apps\Project1_EX_02\Project1_EX_02\obj\Debug\Project1_EX_02.pdb

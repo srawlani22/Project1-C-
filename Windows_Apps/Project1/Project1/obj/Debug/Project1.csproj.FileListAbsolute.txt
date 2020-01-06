@@ -1,0 +1,6 @@
+C:\Users\Sparsh\Desktop\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Sparsh\Desktop\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Sparsh\Desktop\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Sparsh\Desktop\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\Users\Sparsh\Desktop\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Sparsh\Desktop\Project1\Project1\obj\Debug\Project1.pdb
